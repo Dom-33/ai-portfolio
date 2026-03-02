@@ -1,5 +1,4 @@
 .Commit changes pe main. 
-echo "test" >> README.md
 git add .
-git commit -m "test lock 2"
+git commit -m "lock test 1"
 git push
